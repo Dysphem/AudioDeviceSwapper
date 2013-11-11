@@ -1,0 +1,9 @@
+﻿<Window x:Class="AudioDeviceSwapper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="106.192" Width="251.936">
+    <Grid HorizontalAlignment="Left">
+        <Button Width="100" Height="50" Click="SetSpeakerAsDefault" Margin="15,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">Speaker</Button>
+        <Button Width="100" Height="50" Click="SetHeadSetAsDefault" Margin="120,10,-5,0" HorizontalAlignment="Left" VerticalAlignment="Top">HeadSet</Button>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\bin\Debug\AudioDeviceSwapper.exe.config
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\bin\Debug\AudioDeviceSwapper.exe
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\bin\Debug\AudioDeviceSwapper.pdb
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\bin\Debug\CoreAudioApi.dll
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\bin\Debug\CoreAudioApi.pdb
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\AudioDeviceSwapper.csprojResolveAssemblyReference.cache
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\MainWindow.baml
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\MainWindow.g.cs
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\App.g.cs
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\AudioDeviceSwapper_MarkupCompile.cache
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\AudioDeviceSwapper.g.resources
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\AudioDeviceSwapper.Properties.Resources.resources
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\AudioDeviceSwapper.csproj.GenerateResource.Cache
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\AudioDeviceSwapper.exe
+C:\Projects\AudioDeviceSwapper\AudioDeviceSwapper\obj\Debug\AudioDeviceSwapper.pdb
