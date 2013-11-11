@@ -1,1 +1,1 @@
-Simple applikation to swap default playback device for windows. Using WindowsAudioDevice-Powershell-Cmdlet found on:
+Simple applikation to swap default playback device for windows. Using CoreAudioApi.
